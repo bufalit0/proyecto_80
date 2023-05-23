@@ -1,0 +1,26 @@
+body
+{
+    background-color: rgb(47, 47, 47);
+}
+
+h3{
+    color:aliceblue;
+    font-size: 50px;
+}
+input{
+    width: 30%;
+    height: 40px;
+    font-size: 30px;
+    color: rgb(37, 37, 37);
+}
+button{
+    width: 10%;
+    height:35px;
+    background-color: rgb(6, 206, 206);
+    color: white;
+    font-size: 15px;
+}
+#display_name, #p1,#sorted, #p2{
+    font-size: 35px;
+    color: white;
+}
